@@ -1,4 +1,4 @@
-<img width="981" height="454" alt="Screenshot 2025-07-20 211328" src="https://github.com/user-attachments/assets/701be6bc-1439-469c-83db-b7441d54a625" />CI/CD Pipeline for Static Website Deployment using Jenkins, Docker, and Ansible
+CI/CD Pipeline for Static Website Deployment using Jenkins, Docker, and Ansible
 📌 Project Overview
 This project implements a complete CI/CD pipeline to deploy a static website using Jenkins, Docker, Ansible, and GitHub. The pipeline automatically builds, tests, and deploys the application to a production server hosted on AWS EC2 instances.
 
