@@ -10,7 +10,6 @@ Custom repo: https://github.com/rushtoakshay/website
 Contains:
 index.html
 images/ folder
-
 Dockerfile
 
 🔧 Tools & Technologies Used
